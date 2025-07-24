@@ -1,15 +1,15 @@
 ## 🛠️ Технологический стек
 
 ### Языки
-<div align="center">
+<div align="left">
   <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/dev/icons/go/go-original.svg" width="80" height="80" style="border-radius:50%" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" height="80" style="border-radius:50%" alt="Go"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" style="border-radius:50%" alt="Python"/>
 </div>
 
 ### Базы данных
-<div align="center">
+<div align="left">
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80" style="border-radius:50%" alt="PostgreSQL"/>
   <!-- SQLite -->
@@ -19,19 +19,17 @@
 </div>
 
 ### Инструменты и фреймворки
-<div align="center">
+<div align="left">
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="80" height="80" style="border-radius:50%" alt="Gin"/>
   <!-- Kafka -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="80" height="80" style="border-radius:50%" alt="Kafka"/>
-  <!-- REST -->
-  <img src="https://img.icons8.com/fluency/96/api-settings.png" width="80" height="80" style="border-radius:50%" alt="REST API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="80" height="80" style="border-radius:50%" alt="Kafkaicons8.com/fluency/96/api-settings.png" width="80" height="80" style="border-radius:50%" alt="REST API"/>
   <!-- Swagger -->
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="80" height="80" style="border-radius:50%" alt="Swagger"/>
-  <!-- JWT -->
-  <img src="https://img.icons8.com/color/96/json-web-token.png" width="80" height="80" style="border-radius:50%" alt="JWT"/>
-  <!-- gRPC -->
-  <img src="https://cdn.simpleicons.org/grpc/00C8EB" width="80" height="80" style="border-radius:50%" alt="gRPC"/>
+  <!-- JWT - исправленная ссылка -->
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="80" height="80" style="border-radius:50%" alt="JWT"/>
+  <!-- gRPC - исправленная ссылка -->
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="80" height="80" style="border-radius:50%" alt="gRPC"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80" style="border-radius:50%" alt="Git"/>
 </div>
