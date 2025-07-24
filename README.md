@@ -22,8 +22,8 @@
 <div align="left">
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="80" height="80" style="border-radius:50%" alt="Gin"/>
-  <!-- FastAPI -->
-  <img src="https:///fastapi/fastapi-original.svg" width="80" height="80" style="border-radius:50%" alt="FastAPI"/>
+  !-- Kubernetes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80" height="80" style="border-radius:50%" alt="Kubernetes"/>
   <!-- Kafka -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="80" height="80" style="border-radius:50%" alt="Kafkaicons8.com/fluency/96/api-settings.png" width="80" height="80" style="border-radius:50%" alt="REST API"/>
   <!-- Swagger -->
