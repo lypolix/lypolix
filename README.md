@@ -1,55 +1,50 @@
-<!-- Фиолетовый волнообразный баннер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:a4508b&height=180&section=header&text=Go%20Backend%20Developer&fontSize=38&desc=Stylish%20&%20Minimal&fontColor=ffffff" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Go%20Backend%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-## 🛠️ Мой стек (одинаковые иконки)
+## 🛠️ Технологический стек
 
 ### Языки программирования
 <p align="center">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" width="60" height="60" alt="Go"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="60" height="60" alt="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/golang.png" width="70" height="70" alt="Go"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="70" height="70" alt="Python"/>
 </p>
 
 ### Базы данных
 <p align="center">
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="60" height="60" alt="PostgreSQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="60" height="60" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/redis/DC382D" width="60" height="60" alt="Redis"/>
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="70" height="70" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/96/000000/sqlite.png" width="70" height="70" alt="SQLite"/>
+  <img src="https://img.icons8.com/color/96/000000/redis.png" width="70" height="70" alt="Redis"/>
 </p>
 
-### Бэкенд-фреймворки и API
+### Фреймворки и API
 <p align="center">
-  <!-- Gin (custom PNG for uniformity) -->
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="60" height="60" alt="Gin"/>
-  <!-- Uvicorn -->
-  <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.ico" width="60" height="60" alt="Uvicorn"/>
-  <!-- Kafka -->
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="60" height="60" alt="Kafka"/>
-  <!-- gRPC -->
-  <img src="https://cdn.simpleicons.org/grpc/00C8EB" width="60" height="60" alt="gRPC"/>
-  <!-- REST API (universal icon) -->
-  <img src="https://img.icons8.com/ios-filled/100/4F8EF7/api-settings.png" width="60" height="60" alt="REST"/>
-  <!-- Swagger/OpenAPI -->
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="60" height="60" alt="Swagger/OpenAPI"/>
-  <!-- JWT -->
-  <img src="https://img.icons8.com/color/96/json-web-token.png" width="60" height="60" alt="JWT"/>
+  <img src="https://img.icons8.com/color/96/000000/api.png" width="70" height="70" alt="REST"/>
+  <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="70" height="70" alt="gRPC"/>
+  <img src="https://img.icons8.com/color/96/000000/swagger.png" width="70" height="70" alt="Swagger"/>
+  <img src="https://img.icons8.com/color/96/000000/jwt.png" width="70" height="70" alt="JWT"/>
+  <img src="https://img.icons8.com/color/96/000000/apache-kafka.png" width="70" height="70" alt="Kafka"/>
+  <img src="https://img.icons8.com/color/96/000000/gin-framework.png" width="70" height="70" alt="Gin"/>
 </p>
 
-### Инструменты и DevOps
+### Инструменты
 <p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60" alt="Git"/>
+  <img src="https://img.icons8.com/color/96/000000/git.png" width="70" height="70" alt="Git"/>
+  <img src="https://img.icons8.com/color/96/000000/docker.png" width="70" height="70" alt="Docker"/>
+  <img src="https://img.icons8.com/color/96/000000/kubernetes.png" width="70" height="70" alt="Kubernetes"/>
 </p>
 
 ---
 
-## ✨ Описание
+## 🚀 Обо мне
 
-> **Я — бэкенд разработчик на Go**  
-> Разрабатываю надёжные серверные приложения и API на Go, использую современные базы данных, брокеры и инфраструктурный стек для автоматизации и тестирования.
+> **Профессиональный Go-разработчик**  
+> Специализируюсь на создании высоконагруженных микросервисных архитектур.  
+> Экспертиза в проектировании API, оптимизации запросов к БД и построении отказоустойчивых систем.
 
 ---
 
+<!-- Анимированный футер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a4508b,100:8e2de2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&animation=fadeIn&reversal=true"/>
 </p>
