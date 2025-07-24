@@ -1,60 +1,57 @@
-<!-- Animated, ultra-stylish purple SVG banner — insert this via raw URL or host in your repo -->
+<!-- Верхний фиолетовый баннер для GitHub профиля -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/main/purple-animated-tech-banner.svg" alt="Go Backend Stack Animated Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:a4508b&height=180&section=header&text=Go%20Backend%20Developer&fontSize=38&desc=Stylish%20&%20Minimal&fontColor=ffffff" alt="header banner"/>
 </p>
 
-## 🛠️ Основной стек
+## 🛠️ Мой стек 
 
 ### Языки программирования
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="56" alt="Go" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="56" alt="Python" title="Python"/>
+  <img src="https://cdn.simpleicons.org/go/00ADD8?viewbox=auto" width="56" alt="Go"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB?viewbox=auto" width="56" alt="Python"/>
+</p>
+
+### Базы данных
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postgresql/336791?viewbox=auto" width="56" alt="PostgreSQL"/>
+  <img src="https://logo.svgcdn.com/l/sqlite.svg" width="56" alt="SQLite"/>
+  <img src="https://cdn.simpleicons.org/redis/DC382D?viewbox=auto" width="56" alt="Redis"/>
 </p>
 
 ### Бэкенд-фреймворки и API
 <p align="center">
   <!-- Gin -->
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="56" alt="Gin" title="Gin"/>
-  <!-- FastAPI -->
-  <img src="https://www.svgrepo.com/show/330413/fastapi.svg" width="56" alt="FastAPI" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="56" alt="Gin"/>
   <!-- Uvicorn -->
-  <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.ico" width="56" alt="Uvicorn" title="Uvicorn"/>
+  <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.ico" width="56" alt="Uvicorn"/>
+  <!-- FastAPI — иконка не нужна, не была запрошена -->
+  <!-- Kafka (material) -->
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20?viewbox=auto" width="56" alt="Kafka"/>
   <!-- gRPC -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" width="56" alt="gRPC" title="gRPC"/>
-  <!-- REST -->
-  <img src="https://img.icons8.com/fluency/96/api-settings.png" width="56" alt="REST API" title="REST API"/>
-  <!-- JWT -->
-  <img src="https://img.icons8.com/color/96/json-web-token.png" width="56" alt="JWT" title="JWT"/>
+  <img src="https://cdn.simpleicons.org/grpc/00C8EB?viewbox=auto" width="56" alt="gRPC"/>
+  <!-- REST API (используем универсальную) -->
+  <img src="https://img.icons8.com/ios-filled/100/4F8EF7/api-settings.png" width="56" alt="REST"/>
   <!-- Swagger/OpenAPI -->
-  <img src="https://img.icons8.com/color/96/open-api.png" width="56" alt="Swagger" title="Swagger/OpenAPI"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D?viewbox=auto" width="56" alt="Swagger/OpenAPI"/>
+  <!-- JWT -->
+  <img src="https://img.icons8.com/color/96/json-web-token.png" width="56" alt="JWT"/>
 </p>
 
-### Базы данных и брокеры сообщений
+### Инструменты 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="56" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="56" alt="Redis" title="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="56" alt="Kafka" title="Kafka"/>
-</p>
-
-### Другие инструменты
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="56" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="56" alt="Kubernetes" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="56" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="56" alt="Linux" title="Linux"/>
+  <img src="https://cdn.simpleicons.org/git/F05032?viewbox=auto" width="56" alt="Git"/>
 </p>
 
 ---
 
 ## ✨ Описание
 
-> **Я — бэкенд разработчик на Go**
->
-> Создаю надёжные и масштабируемые серверные приложения — API, сервисы, интеграции — используя современные инструменты, облака и лучшие практики.
+> **Я — бэкенд разработчик на Go**  
+> Проектирую надёжные серверные приложения и API на Go, использую современные базы данных, брокеры и инструментальный стек для автоматизации и тестирования.
 
 ---
 
-<!-- Минималистичная анимация для завершения профиля (можно заменить свою) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/main/purple-footer-wave-animated.svg" alt="Footer Animated Purple"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a4508b,100:8e2de2&height=100&section=footer"/>
 </p>
+
