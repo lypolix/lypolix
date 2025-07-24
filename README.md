@@ -28,18 +28,6 @@
 
 ---
 
-## 📦 Технологии
-
-| Категория         | Инструменты                                   |
-|-------------------|-----------------------------------------------|
-| Языки             | Go, Python                                    |
-| Фреймворки        | Gin, gRPC, Echo                               |
-| Базы данных       | PostgreSQL, Redis, MongoDB                    |
-| DevOps & Cloud    | Docker, Kubernetes, AWS, GitHub Actions       |
-| Мониторинг        | Prometheus, Grafana                           |
-| Тестирование      | Testify, Go Benchmarking                      |
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b30ff,100:6a0dad&height=120&section=footer"/>
