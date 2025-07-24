@@ -26,3 +26,45 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" width="70" height="70" style="border-radius: 50%">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" width="70" height="70" style="border-radius: 50%">
 </div>
+
+
+text
+<!-- Header with soft gradient wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ddf9,100:2395ff&height=200&section=header&text=Привет!%20Я%20Go%20Backend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+## 👨‍💻 Обо мне
+- 🌐 Пишу высоконагруженные веб-сервисы на Go  
+- ⚙️ Проектирую микросервисы, REST и gRPC API  
+- 🚀 Оптимизирую производительность, профилирую и пишу нагрузочные тесты  
+- 🎓 Студент **БМТУ ИУ5** (3 курс)  
+- 🛠️ Вырос на open-source и всегда рад интересным проектам  
+- 📫 Лучший способ связаться — загляните в «Контакты» ниже   
+
+---
+
+## 📬 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_nick)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+## 🛠️ Мой стек
+
+<!-- Skill Icons (крупные круглые) -->
+<p align="center" style="margin-bottom: 2rem;">
+  <img src="https://skillicons.dev/icons?i=go,gin,gorm,grpc,docker,kubernetes,aws,postgres,redis,graphql,linux,git&theme=light&perline=6" width="700" alt="tech stack"/>
+</p>
+
+| Категория         | Инструменты |
+|-------------------|-------------|
+| Языки             | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Фреймворки        | Gin • Echo • Fiber |
+| Базы данных       | PostgreSQL • Redis • MongoDB |
+| DevOps & Cloud    | Docker • Kubernetes • AWS (ECS, S3, RDS) |
+| CI/CD             | GitHub Actions • ArgoCD |
+| Мониторинг        | Prometheus • Grafana |
+| Тестирование      | Testify • Go Benchmarking |
+
+---
