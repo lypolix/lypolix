@@ -40,4 +40,6 @@
   <img src="https://img.icons8.com/fluency/96/api-settings.png" width="80" height="80" style="border-radius:50%" alt="REST API"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="80" height="80" style="border-radius:50%" alt="Docker"/>
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="80" height="80" style="border-radius:50%" alt="Postman"/>
 </div>
