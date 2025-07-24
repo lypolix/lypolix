@@ -32,4 +32,8 @@
   <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="80" height="80" style="border-radius:50%" alt="gRPC"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80" style="border-radius:50%" alt="Git"/>
+  <!-- REST -->
+  <img src="https://img.icons8.com/fluency/96/api-settings.png" width="80" height="80" style="border-radius:50%" alt="REST API"/>
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="80" height="80" style="border-radius:50%" alt="Docker"/>
 </div>
