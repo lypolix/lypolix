@@ -1,32 +1,37 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/main/purple-animated-tech-banner.svg" alt="Стильный баннер"/>
-</p>
-
 ## 🛠️ Технологический стек
 
 ### Языки
 <div align="center">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80" height="80" style="border-radius:50%">
+  <!-- Go -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/dev/icons/go/go-original.svg" width="80" height="80" style="border-radius:50%" alt="Go"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" style="border-radius:50%" alt="Python"/>
 </div>
 
 ### Базы данных
 <div align="center">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" width="80" height="80" style="border-radius:50%">
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80" style="border-radius:50%" alt="PostgreSQL"/>
+  <!-- SQLite -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="80" height="80" style="border-radius:50%" alt="SQLite"/>
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="80" height="80" style="border-radius:50%" alt="Redis"/>
 </div>
 
-### Инструменты
+### Инструменты и фреймворки
 <div align="center">
-  <img src="https://img.shields.io/badge/-Gin-0099E1?style=for-the-badge&logo=go&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-REST-FF6F61?style=for-the-badge&logo=rest&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" width="80" height="80" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="80" height="80" style="border-radius:50%">
+  <!-- Gin -->
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="80" height="80" style="border-radius:50%" alt="Gin"/>
+  <!-- Kafka -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="80" height="80" style="border-radius:50%" alt="Kafka"/>
+  <!-- REST -->
+  <img src="https://img.icons8.com/fluency/96/api-settings.png" width="80" height="80" style="border-radius:50%" alt="REST API"/>
+  <!-- Swagger -->
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="80" height="80" style="border-radius:50%" alt="Swagger"/>
+  <!-- JWT -->
+  <img src="https://img.icons8.com/color/96/json-web-token.png" width="80" height="80" style="border-radius:50%" alt="JWT"/>
+  <!-- gRPC -->
+  <img src="https://cdn.simpleicons.org/grpc/00C8EB" width="80" height="80" style="border-radius:50%" alt="gRPC"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80" style="border-radius:50%" alt="Git"/>
 </div>
-
-
-
