@@ -42,4 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="80" height="80" style="border-radius:50%" alt="Docker"/>
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="80" height="80" style="border-radius:50%" alt="Postman"/>
+  <!-- GraphQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="80" height="80" style="border-radius:50%" alt="GraphQL"/>
+  <!-- Logstash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="80" height="80" style="border-radius:50%" alt="Logstash"/>
 </div>
