@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-repo/go-developer-gradient-glow.gif" width="600" alt="Go Developer Stylish Animation```
+</p>
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=600&color=007ACC&width=700&height=150&lines=Golang+Developer+"        ";Backend+Engineer+"        ")
 ---
 
 ## About me
