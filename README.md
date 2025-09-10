@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-repo/go-developer-gradient-glow.gif" width="600" alt="Go Developer Stylish Animation```
+  <img src="https://pplx-res.cloudinary.com/image/upload/v1757531272/gemini_images/sdozylkfxegctibvuyhb.png" alt="Go Developer Stylish Text" width="600"/>
 </p>
 
 ---
