@@ -1,4 +1,5 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=007ACC&width=400&lines=Go+Developer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight```0&duration=4000&pause=1000&color=FF4500&lines=Go+Developer)
+
 
 ---
 
