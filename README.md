@@ -1,6 +1,4 @@
-# Go Developer
-<span style="text-decoration: underline; text-decoration-color: blue;">Go Developer</span>
-
+# **Go Developer**
 ---
 
 ## About me
