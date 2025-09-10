@@ -1,3 +1,16 @@
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=00F&width=400&lines=Go+Developer)
+
+---
+
+## About me
+
+1. Hackathon player  
+2. Freelance worker  
+3. Developing microservices for a large number of users  
+4. Writing backend for cool projects  
+5. Algorithm and data science learner
+
+
 ## 🛠️ Технологический стек
 
 ### Языки
