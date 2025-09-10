@@ -1,7 +1,5 @@
 
-<p style="margin-top:50px; margin-bottom:20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=600&color=007ACC&width=1000&height=150&lines=Go+Developer" alt="Go Developer"/>
-</p>
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=6000&color=007ACC&width=700&height=150&lines=Go+Developer)
 
 ---
 
