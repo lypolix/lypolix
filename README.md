@@ -1,4 +1,5 @@
-![Go Developer](https://raw.githubusercontent.com/golang-svgs/golang-svgs/master/gopher_run.svg)
+# ![Go developer](https://img.shields.io/badge/Go-Developer-blue?style=for-the-badge&logo=go&logoColor=white&animation```inking)
+
 
 
 ---
