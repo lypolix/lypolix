@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="400" alt="Go Developer Animation"/>
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="400" alt="Go Developer Animation"/>
 </p>
 
 ---
