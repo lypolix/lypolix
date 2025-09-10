@@ -1,6 +1,6 @@
 
 <p style="margin-top:50px; margin-bottom:20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=60000&color=007ACC&width=1000&height=150&lines=Go+Developer" alt="Go Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=600&color=007ACC&width=1000&height=150&lines=Go+Developer" alt="Go Developer"/>
 </p>
 
 ---
