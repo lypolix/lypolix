@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size```&duration=6000&color=007ACC&width=200&lines=Go+Developer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size```&duration=100&color=007ACC&width=2000&lines=Go+Developer)
 ---
 
 ## About me
