@@ -1,5 +1,5 @@
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=600&color=007ACC&width=700&height=150&lines=Golang;Backend+Dev)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=600&color=007ACC&width=700&height=150&lines=Golang+Developer    ;Backend+Engineer   )
 ---
 
 ## About me
