@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80" style="border-radius:50%" alt="PostgreSQL"/>
   <!-- SQLite -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="80" height="80" style="border-radius:50%" alt="SQLite"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="80" height="80" style="border-radius:50%" alt="MongoDB"/>
   <!-- Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="80" height="80" style="border-radius:50%" alt="Redis"/>
 </div>
