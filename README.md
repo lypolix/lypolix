@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pplx-res.cloudinary.com/image/upload/v1757531272/gemini_images/sdozylkfxegctibvuyhb.png" alt="Go Developer Stylish Text" width="600"/>
+  <img src="https://user-images.githubusercontent.com/6586609/135778564-1e8f597e-76a0-4b60-8193-cc3db3015a77.png" alt="Go Developer Blue Underline" width="600"/>
 </p>
 
 ---
