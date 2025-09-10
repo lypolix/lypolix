@@ -1,6 +1,6 @@
-# ![Go developer](https://img.shields.io/badge/Go-Developer-blue?style=for-the-badge&logo=go&logoColor=white&animation```inking)
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="400" alt="Go Developer Animation"/>
+</p>
 
 ---
 
