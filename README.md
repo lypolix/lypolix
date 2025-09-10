@@ -1,6 +1,5 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=007ACC&width=400&lines=Go+Developer)
 
-
 ---
 
 ## About me
