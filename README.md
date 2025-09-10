@@ -1,4 +1,5 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=1E90FF&lines=Go Developer;Backend Developer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=FF7F50&lines=Go Developer;Microservices Expert)
+
 
 ---
 
