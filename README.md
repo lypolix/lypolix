@@ -1,8 +1,8 @@
 
+<p style="margin-top:50px; margin-bottom:20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=6000&color=007ACC&width=600&height=150&lines=Go+Developer" alt="Go Developer"/>
+</p>
 
-
-
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=150&duration=3000&color=007ACC&width=2000&lines=Go+Developer)
 ---
 
 ## About me
