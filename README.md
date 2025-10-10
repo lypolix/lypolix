@@ -36,10 +36,15 @@
 <div align="left">
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="80" height="80" style="border-radius:50%" alt="Gin"/>
-  <!-- Fiber -->
-  <img src="https://gofiber.io/assets/images/fiber-logo.svg" width="80" height="80" style="border-radius:50%" alt="Fiber"/>
-  <!-- Chi -->
-  <img src="https://raw.githubusercontent.com/go-chi/chi/master/_examples/logo.svg" width="80" height="80" style="border-radius:50%" alt="Chi"/>
+  <!-- Echo (перенос на jsDelivr копию логотипа из репозитория) -->
+  <img src="https://cdn.jsdelivr.net/gh/labstack/echo/site/static/images/echo-logo.svg"
+       width="80" height="80" style="border-radius:50%" alt="Echo"/>
+  <!-- Fiber (официальный сайт иногда отдает через редирект) -->
+  <img src="https://cdn.jsdelivr.net/gh/gofiber/website/static/images/fiber-logo.svg"
+       width="80" height="80" style="border-radius:50%" alt="Fiber"/>
+  <!-- Chi (лучше брать не из _examples, а опубликованный ассет/иконку) -->
+  <img src="https://www.vectorlogo.zone/logos/go-chiio/go-chiio-icon.svg"
+       width="80" height="80" style="border-radius:50%" alt="Chi"/>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" style="border-radius:50%" alt="React"/><!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" style="border-radius:50%" alt="FastAPI"/>
