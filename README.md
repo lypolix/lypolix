@@ -37,11 +37,11 @@
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="80" height="80" style="border-radius:50%" alt="Gin"/>
   <!-- Echo -->
-  <img src="https://raw.githubusercontent.com/labstack/echo/master/website/static/images/echo-logo.svg" width="80" height="80" style="border-radius:50%" alt="Echo"/>
+  <img src="https://echo.labstack.com/images/echo-logo.svg" width="80" height="80" style="border-radius:50%" alt="Echo"/>
   <!-- Fiber -->
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber.svg" width="80" height="80" style="border-radius:50%" alt="Fiber"/>
+  <img src="https://gofiber.io/assets/images/logo.svg" width="80" height="80" style="border-radius:50%" alt="Fiber"/>
   <!-- Chi -->
-  <img src="https://raw.githubusercontent.com/go-chi/chi/master/logo.png" width="80" height="80" style="border-radius:50%" alt="Chi"/>
+  <img src="https://github.com/go-chi/chi/raw/master/.github/logo.png" width="80" height="80" style="border-radius:50%" alt="Chi"/>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" style="border-radius:50%" alt="React"/><!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" style="border-radius:50%" alt="FastAPI"/>
