@@ -36,6 +36,8 @@
 <div align="left">
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="80" height="80" style="border-radius:50%" alt="Gin"/>
+  <!-- Echo -->
+  <img src="https://echo.labstack.com/assets/images/echo-logo.svg" width="80" height="80" style="border-radius:50%" alt="Echo"/>
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" style="border-radius:50%" alt="FastAPI"/>
   <!-- Kubernetes -->
