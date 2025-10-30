@@ -64,14 +64,14 @@
 </div>
 
 <!-- Общая статистика -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypolix&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 <!-- Топ языков -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypolix&layout=compact&langs_count=8)
 
 <!-- Коммиты по дням недели/часам -->
-![Commit Streak](https://streak-stats.demolab.com?user=YOUR_GH_USERNAME&theme=default)
+![Commit Streak](https://streak-stats.demolab.com?user=lypolix&theme=default)
 
 <!-- Activity Graph (тепловая карта активностей) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GH_USERNAME&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lypolix&theme=github-compact)
 
