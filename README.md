@@ -63,9 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="80" height="80" style="border-radius:50%" alt="Logstash"/>
 </div>
 
-<!-- Общая статистика -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypolix&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
 <!-- Топ языков -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypolix&layout=compact&langs_count=8)
 
