@@ -62,3 +62,11 @@
   <!-- Logstash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="80" height="80" style="border-radius:50%" alt="Logstash"/>
 </div>
+
+
+<!-- Бейджи профиля -->
+![Commits](https://img.shields.io/badge/Commits-dynamic-blue?logo=github)
+![PRs](https://img.shields.io/badge/PRs-dynamic-green?logo=github)
+![Issues](https://img.shields.io/badge/Issues-dynamic-yellow?logo=github)
+![Code_Review](https://img.shields.io/badge/Code%20review-active-success?logo=github)
+
