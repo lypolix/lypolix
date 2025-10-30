@@ -63,11 +63,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="80" height="80" style="border-radius:50%" alt="Logstash"/>
 </div>
 
+---
+
 <!-- Топ языков -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypolix&layout=compact&langs_count=8)
 
 <!-- Коммиты по дням недели/часам -->
-![Commits](https://streak-stats.demolab.com?user=lypolix&theme=default)
+![](https://streak-stats.demolab.com?user=lypolix&theme=default)
 
 <!-- Activity Graph (тепловая карта активностей) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lypolix&theme=github-compact)
