@@ -63,10 +63,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="80" height="80" style="border-radius:50%" alt="Logstash"/>
 </div>
 
+<!-- Общая статистика -->
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-<!-- Бейджи профиля -->
-![Commits](https://img.shields.io/badge/Commits-dynamic-blue?logo=github)
-![PRs](https://img.shields.io/badge/PRs-dynamic-green?logo=github)
-![Issues](https://img.shields.io/badge/Issues-dynamic-yellow?logo=github)
-![Code_Review](https://img.shields.io/badge/Code%20review-active-success?logo=github)
+<!-- Топ языков -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&langs_count=8)
+
+<!-- Коммиты по дням недели/часам -->
+![Commit Streak](https://streak-stats.demolab.com?user=YOUR_GH_USERNAME&theme=default)
+
+<!-- Activity Graph (тепловая карта активностей) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GH_USERNAME&theme=github-compact)
 
