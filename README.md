@@ -65,9 +65,6 @@
 
 ---
 
-<!-- Топ языков -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypolix&layout=compact&langs_count=8)
-
 <!-- Activity Graph (тепловая карта активностей) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lypolix&theme=github-compact)
 
